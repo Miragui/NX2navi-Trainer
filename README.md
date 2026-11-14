@@ -1,4 +1,4 @@
-# NX2navi HUD Trainer
+# NX2navi Trainer
 
 A lightweight, borderless transparent HUD trainer and real-time memory overlay for **NX2navi** (`ocarina.exe`), *The Legend of Zelda: Ocarina of Time* static recompilation for Windows.
 
